@@ -1,0 +1,1 @@
+# schoolcash-app-legal
